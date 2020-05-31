@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Contact | Tech Algo</title>
+  <title>Contact | TechWiki!</title>
   
   <!-- FAVICON -->
   <link href="img/favicon.png" rel="shortcut icon">
@@ -163,7 +163,7 @@
           <p>Copyright © <script>
               var CurrentYear = new Date().getFullYear()
               document.write(CurrentYear)
-            </script>. All Rights Reserved, theme by <a class="text-primary"  target="_blank">Tech Algo</a></p>
+            </script>. All Rights Reserved, theme by <a class="text-primary"  target="_blank">TechWiki!</a></p>
         </div>
       </div>
       <div class="col-sm-6 col-12">

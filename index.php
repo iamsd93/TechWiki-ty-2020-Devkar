@@ -13,7 +13,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Technical Wiki</title>
+  <title>TechWiki</title>
   
   <!-- FAVICON -->
   <link href="img/favicon.png" rel="shortcut icon">
@@ -115,7 +115,7 @@
 			<div class="col-md-12">
 				<!-- Header Contetnt -->
 				<div class="content-block">
-					<h1>Technical Wiki! </h1>
+					<h1>TechWiki! </h1>
 					<p>Join the millions who share and earn info from each other <br> everyday in local communities around the world</p>
 					<div class="short-popular-category-list text-center">
 						
@@ -532,7 +532,7 @@
           <p>Copyright © <script>
               var CurrentYear = new Date().getFullYear()
               document.write(CurrentYear)
-            </script>. All Rights Reserved, theme by <a class="text-primary"  target="_blank">Technical Wiki!</a></p>
+            </script>. All Rights Reserved, theme by <a class="text-primary"  target="_blank">TechWiki!</a></p>
         </div>
       </div>
       <div class="col-sm-6 col-12">
